@@ -17,7 +17,7 @@ The iVS-Facial Landmark dataset is a comprehensive collection of AI-generated fa
 ## How to download the iVS-Facial Landmark Dataset?
 
 download link :   
-[iVS-Facial Landmark Dataset](https://www.aicreda.com/download/openfile)
+[iVS-Facial Landmark Dataset](https://www.aicreda.com/download/fractial)
 
 ## Dataset Structure
 The dataset is organized into the following structure:
